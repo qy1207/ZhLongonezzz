@@ -1,0 +1,4 @@
+rootProject.name='ZheLongone'
+include ':app', ':utilss'
+include ':fraem'
+include ':data'

@@ -1,0 +1,379 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:2:1-70:12
+MERGED from [:frame] E:\Bigshixun\1907lsbj\1907\frame\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\16468b490fcf78ad37388e330902e13f\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:data] E:\Bigshixun\1907lsbj\1907\data\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\378c186bf87fd445ec9c55a17860fcfc\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\0bfe68acfdde2ddd4905f83e658d2f4b\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:10.2.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f1665703466f0e80c35552bd1adf1e27\butterknife-10.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f732f37db1f02233b5885f2cdf884491\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\b57c2ca076edc703c216ae031075bf16\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:utils] E:\Bigshixun\1907lsbj\1907\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d61c3804026985f4a4991c6937b2796d\jetified-glide-4.8.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\86a5070b204cbb5a6158a499eda5171c\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d95ba8cc433b43d3b3486b79acdb4f5e\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\78a4ce06487bcc6bfd4890114ef3fd35\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha03] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\dd73d0df00732014114350ad6497f9de\recyclerview-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\127f49a333167ceb7127e7caca0e234c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\013162882880f7af3cd683ff240624fe\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\50e5dafab553fc6244a2b3467d8fb3bf\butterknife-runtime-10.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\68a8dff839ef8c09a81d03c39917c503\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\bce660aed9bb86bdb0f063a8e17d278d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\17d4798a88476cb75af2562893dbafbe\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d1bfca689436d631fa41bc31cabe25d8\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\1e859bd874b0e120cc75223c39de5e4a\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\120b45b2cb942cb2fdf7b96d0f4c1708\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\66aaa3ee38546b1e845d8c61543c612e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\41adeb8ed5d8f1e925a76a9e9fbf22b0\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\9eceb893d951e96d1293b6a14195f9dd\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d5ff72ae215cd85d3aab905ed133bb16\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\75577a05041b684e9005c222eb83a3dc\core-1.3.0-alpha02\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f31a436b1f7ccb86e4c15c9e64ccf6f0\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\2571d5621112ffc9fe2e5237fe471585\jetified-gifdecoder-4.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\0571c148c135f6ba48c40cfc2387aadb\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\116b5fe390d71dd8dc80a58c9b5419d1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\c801a38951041733cd6170b0a3cc224d\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\ac4686ebf4a9dc35a698e7843a110c0a\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\bd3093d58e79bd7189329fdc778f1ad3\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\ccb98f9aabc913f7ee79f037fa306212\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\145135f31c4f24a898d195556e14e94f\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\9e8701d7cb6ee176c776866d211ffe64\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\9b25b6a062ed46a48568dcc3e546510a\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\e0d67820b7e76d045d74497b8f97fbd6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\45697edb0b5fa7b919f940a9c48aa756\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-andx-11] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\039ed6c7dde5d7c3f63f32216bcddceb\SmartRefreshLayout-1.1.0-andx-11\AndroidManifest.xml:2:1-17:12
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0-andx-11] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\081c5e302e68d3749d60b6434a22658e\SmartRefreshHeader-1.1.0-andx-11\AndroidManifest.xml:2:1-17:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\7051442f8d2174f7b16a2b5c7f23b3e9\rxandroid-2.0.1\AndroidManifest.xml:15:1-21:12
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:2:1-70:12
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:2:1-70:12
+		INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:8:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [:utils] E:\Bigshixun\1907lsbj\1907\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+MERGED from [:utils] E:\Bigshixun\1907lsbj\1907\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.READ_CALENDAR
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:13:22-70
+uses-permission#android.permission.READ_SETTINGS
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:14:22-69
+uses-permission#android.permission.INSTALL_SHORTCUT
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:15:22-72
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:16:22-85
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:17:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:24:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:25:22-65
+uses-permission#android.permission.GET_PACKAGE_SIZE
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:26:22-72
+uses-permission#android.permission.CLEAR_APP_DATA
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:27:5-73
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:27:22-70
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:28:22-65
+uses-permission#android.permission.CAMERA
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:29:5-65
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:29:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:31:5-60
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:31:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:32:5-70
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:32:19-67
+uses-permission#android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:34:5-90
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:34:22-87
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:35:5-79
+MERGED from [:utils] E:\Bigshixun\1907lsbj\1907\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:utils] E:\Bigshixun\1907lsbj\1907\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:35:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:36:22-78
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:37:5-39:47
+	tools:ignore
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:39:9-44
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:38:9-52
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:40:5-42:47
+	tools:ignore
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:42:9-44
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:41:9-57
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:43:5-45:47
+	tools:ignore
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:45:9-44
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:44:9-63
+application
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:47:5-68:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\16468b490fcf78ad37388e330902e13f\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\16468b490fcf78ad37388e330902e13f\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\0bfe68acfdde2ddd4905f83e658d2f4b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\0bfe68acfdde2ddd4905f83e658d2f4b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [:utils] E:\Bigshixun\1907lsbj\1907\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-13:19
+MERGED from [:utils] E:\Bigshixun\1907lsbj\1907\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-13:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d61c3804026985f4a4991c6937b2796d\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d61c3804026985f4a4991c6937b2796d\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\75577a05041b684e9005c222eb83a3dc\core-1.3.0-alpha02\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\75577a05041b684e9005c222eb83a3dc\core-1.3.0-alpha02\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f31a436b1f7ccb86e4c15c9e64ccf6f0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f31a436b1f7ccb86e4c15c9e64ccf6f0\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\2571d5621112ffc9fe2e5237fe471585\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\2571d5621112ffc9fe2e5237fe471585\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-andx-11] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\039ed6c7dde5d7c3f63f32216bcddceb\SmartRefreshLayout-1.1.0-andx-11\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-andx-11] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\039ed6c7dde5d7c3f63f32216bcddceb\SmartRefreshLayout-1.1.0-andx-11\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0-andx-11] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\081c5e302e68d3749d60b6434a22658e\SmartRefreshHeader-1.1.0-andx-11\AndroidManifest.xml:11:5-15:19
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0-andx-11] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\081c5e302e68d3749d60b6434a22658e\SmartRefreshHeader-1.1.0-andx-11\AndroidManifest.xml:11:5-15:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0-alpha02] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\75577a05041b684e9005c222eb83a3dc\core-1.3.0-alpha02\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:54:9-35
+	android:label
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:51:9-41
+	android:roundIcon
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:53:9-54
+	android:icon
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:50:9-43
+	android:allowBackup
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:49:9-35
+	android:theme
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:55:9-40
+	android:networkSecurityConfig
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:52:9-69
+	android:usesCleartextTraffic
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:56:9-44
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:48:9-45
+activity#com.teach.teach1907.view.activity.SubjectActivity
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:57:9-76
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:57:19-64
+activity#com.teach.teach1907.view.activity.LoginActivity
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:58:9-65
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:58:19-62
+activity#com.teach.teach1907.view.activity.HomeActivity
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:59:9-64
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:59:19-61
+activity#com.teach.teach1907.view.activity.SplashActivity
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:60:9-66:20
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:60:19-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:61:13-65:29
+action#android.intent.action.MAIN
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:62:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:64:27-74
+activity#com.teach.teach1907.view.MainActivity
+ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:67:9-55
+	android:name
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml:67:19-52
+uses-sdk
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+MERGED from [:frame] E:\Bigshixun\1907lsbj\1907\frame\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:frame] E:\Bigshixun\1907lsbj\1907\frame\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\16468b490fcf78ad37388e330902e13f\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\16468b490fcf78ad37388e330902e13f\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:data] E:\Bigshixun\1907lsbj\1907\data\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:data] E:\Bigshixun\1907lsbj\1907\data\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\378c186bf87fd445ec9c55a17860fcfc\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\378c186bf87fd445ec9c55a17860fcfc\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\0bfe68acfdde2ddd4905f83e658d2f4b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\0bfe68acfdde2ddd4905f83e658d2f4b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:10.2.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f1665703466f0e80c35552bd1adf1e27\butterknife-10.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f1665703466f0e80c35552bd1adf1e27\butterknife-10.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f732f37db1f02233b5885f2cdf884491\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f732f37db1f02233b5885f2cdf884491\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\b57c2ca076edc703c216ae031075bf16\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\b57c2ca076edc703c216ae031075bf16\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:utils] E:\Bigshixun\1907lsbj\1907\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:utils] E:\Bigshixun\1907lsbj\1907\utils\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d61c3804026985f4a4991c6937b2796d\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d61c3804026985f4a4991c6937b2796d\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\86a5070b204cbb5a6158a499eda5171c\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\86a5070b204cbb5a6158a499eda5171c\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d95ba8cc433b43d3b3486b79acdb4f5e\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d95ba8cc433b43d3b3486b79acdb4f5e\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\78a4ce06487bcc6bfd4890114ef3fd35\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\78a4ce06487bcc6bfd4890114ef3fd35\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha03] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\dd73d0df00732014114350ad6497f9de\recyclerview-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0-alpha03] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\dd73d0df00732014114350ad6497f9de\recyclerview-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\127f49a333167ceb7127e7caca0e234c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\127f49a333167ceb7127e7caca0e234c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\013162882880f7af3cd683ff240624fe\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\013162882880f7af3cd683ff240624fe\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\50e5dafab553fc6244a2b3467d8fb3bf\butterknife-runtime-10.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\50e5dafab553fc6244a2b3467d8fb3bf\butterknife-runtime-10.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\68a8dff839ef8c09a81d03c39917c503\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\68a8dff839ef8c09a81d03c39917c503\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\bce660aed9bb86bdb0f063a8e17d278d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\bce660aed9bb86bdb0f063a8e17d278d\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\17d4798a88476cb75af2562893dbafbe\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\17d4798a88476cb75af2562893dbafbe\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d1bfca689436d631fa41bc31cabe25d8\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d1bfca689436d631fa41bc31cabe25d8\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\1e859bd874b0e120cc75223c39de5e4a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\1e859bd874b0e120cc75223c39de5e4a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\120b45b2cb942cb2fdf7b96d0f4c1708\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\120b45b2cb942cb2fdf7b96d0f4c1708\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\66aaa3ee38546b1e845d8c61543c612e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\66aaa3ee38546b1e845d8c61543c612e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\41adeb8ed5d8f1e925a76a9e9fbf22b0\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\41adeb8ed5d8f1e925a76a9e9fbf22b0\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\9eceb893d951e96d1293b6a14195f9dd\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\9eceb893d951e96d1293b6a14195f9dd\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d5ff72ae215cd85d3aab905ed133bb16\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\d5ff72ae215cd85d3aab905ed133bb16\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\75577a05041b684e9005c222eb83a3dc\core-1.3.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0-alpha02] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\75577a05041b684e9005c222eb83a3dc\core-1.3.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f31a436b1f7ccb86e4c15c9e64ccf6f0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\f31a436b1f7ccb86e4c15c9e64ccf6f0\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\2571d5621112ffc9fe2e5237fe471585\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\2571d5621112ffc9fe2e5237fe471585\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\0571c148c135f6ba48c40cfc2387aadb\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\0571c148c135f6ba48c40cfc2387aadb\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\116b5fe390d71dd8dc80a58c9b5419d1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\116b5fe390d71dd8dc80a58c9b5419d1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\c801a38951041733cd6170b0a3cc224d\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\c801a38951041733cd6170b0a3cc224d\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\ac4686ebf4a9dc35a698e7843a110c0a\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\ac4686ebf4a9dc35a698e7843a110c0a\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\bd3093d58e79bd7189329fdc778f1ad3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\bd3093d58e79bd7189329fdc778f1ad3\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\ccb98f9aabc913f7ee79f037fa306212\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\ccb98f9aabc913f7ee79f037fa306212\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\145135f31c4f24a898d195556e14e94f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\145135f31c4f24a898d195556e14e94f\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\9e8701d7cb6ee176c776866d211ffe64\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\9e8701d7cb6ee176c776866d211ffe64\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\9b25b6a062ed46a48568dcc3e546510a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\9b25b6a062ed46a48568dcc3e546510a\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\e0d67820b7e76d045d74497b8f97fbd6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\e0d67820b7e76d045d74497b8f97fbd6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\45697edb0b5fa7b919f940a9c48aa756\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\45697edb0b5fa7b919f940a9c48aa756\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-andx-11] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\039ed6c7dde5d7c3f63f32216bcddceb\SmartRefreshLayout-1.1.0-andx-11\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshLayout:1.1.0-andx-11] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\039ed6c7dde5d7c3f63f32216bcddceb\SmartRefreshLayout-1.1.0-andx-11\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0-andx-11] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\081c5e302e68d3749d60b6434a22658e\SmartRefreshHeader-1.1.0-andx-11\AndroidManifest.xml:7:5-9:41
+MERGED from [com.scwang.smartrefresh:SmartRefreshHeader:1.1.0-andx-11] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\081c5e302e68d3749d60b6434a22658e\SmartRefreshHeader-1.1.0-andx-11\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\7051442f8d2174f7b16a2b5c7f23b3e9\rxandroid-2.0.1\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\Leishen\.gradle\caches\transforms-2\files-2.1\7051442f8d2174f7b16a2b5c7f23b3e9\rxandroid-2.0.1\AndroidManifest.xml:19:5-43
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+		ADDED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Bigshixun\1907lsbj\1907\app\src\main\AndroidManifest.xml
